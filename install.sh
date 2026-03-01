@@ -172,8 +172,8 @@ source $ZSH/oh-my-zsh.sh
 # ==========================================
 clear
 toilet -f slant "Vampire Squad" | lolcat
-echo -e "\e[1;34m              by Muhammad Shourov\e[0m"
-echo -e "\e[1;36m       [ Welcome to the Ultimate Workspace ]\e[0m\n"
+echo -e "\e[1;34m              © Muhammad Shourov\e[0m"
+echo -e "\e[1;36m       [ Welcome to the Vampire Zone ]\e[0m\n"
 
 # Alias for tools
 alias mytools="cd ~/Vampire_Tools && ls -la"
